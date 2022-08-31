@@ -1,5 +1,7 @@
-<img src="http://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="70">
-<img src="http://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="70">
+<p float="left">
+  <img src="http://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" height="70">
+  <img src="http://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="70">
+</p>
 
 # ViteJS + TailwindCSS
 
